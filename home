@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome Home</title>
+</head>
+<body>
+
+<div id="header">
+<h1><font face="arial">Lacy Finnigan's Resume Website</font></h1>
+</div>
+
+<div id="navig">
+<h2><font face="arial">
+COBOL<br>
+JAVA<br>
+SQL<br>
+Work History<br>
+Contact Me<br>
+
+<div id="desc">
+<p>
+<h3><font face="times new roman">My name is Lacy Finnigan, and I am a BCIS major at the University of North Texas, graduating in December of 2015. I have created this website to demonstrate the skills I have learned through my post-secondary education by not only stating these skills in a resume, but attaching the project files I created for classes.
+<p>
+You can contact me via this website, email, or phone with the information provided on the "Contact Me" section of the website.
+<p>
+I hope to hear from you!
+</font></h3>
+
+<div id="footer"><h6><font face="times new roman">Contact Me</font></h6>
